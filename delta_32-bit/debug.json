@@ -2,11 +2,11 @@
   "magisk": {
     "version": "a3dee83b-32bit",
     "versionCode": "25206",
-    "link": "https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-debug.apk",
+    "link": "https://cdn.jsdelivr.net/gh/Namelesswonder/magisk-files@main/magisk-delta-32bit-debug.apk",
     "note": ""
   },
   "stub": {
     "versionCode": "36",
-    "link": "https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-stub-debug.apk"
+    "link": "https://cdn.jsdelivr.net/gh/Namelesswonder/magisk-files@main/magisk-delta-32bit-stub-debug.apk"
   }
 }
