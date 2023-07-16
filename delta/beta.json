@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "b8694c99-delta",
+    "versionCode": "25206",
+    "link": "https://cdn.jsdelivr.net/gh/huskydg/magisk-files@301b1865c7d47bbed1e375541987aee0cd1b753d/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/huskydg/magisk-files@301b1865c7d47bbed1e375541987aee0cd1b753d/note.md"
+  },
+  "stub": {
+    "versionCode": "34",
+    "link": "https://cdn.jsdelivr.net/gh/huskydg/magisk-files@301b1865c7d47bbed1e375541987aee0cd1b753d/stub-release.apk"
+  }
+}

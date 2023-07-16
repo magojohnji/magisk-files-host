@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "25.2.3",
+    "versionCode": "25210",
+    "link": "https://cdn.jsdelivr.net/gh/datnerdguy/magisk-monet-files@25.2.3(25210)/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/datnerdguy/magisk-monet-files@25.2.3(25210)/notes.md"
+  },
+  "stub": {
+    "versionCode": "35",
+    "link": "https://cdn.jsdelivr.net/gh/datnerdguy/magisk-monet-files@25.2.3(25210)/stub-release.apk"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "magisk": {
+    "version": "46770db1-alpha",
+    "versionCode": "26103",
+    "link": "https://github.com/vvb2060/magisk_files/raw/alpha/app-release.apk",
+    "note": "https://github.com/topjohnwu/magisk-files/raw/canary/notes.md"
+  },
+  "stub": {
+    "versionCode": "36"
+  }
+}
