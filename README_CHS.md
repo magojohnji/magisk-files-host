@@ -53,7 +53,7 @@
 
 ## 鸣谢
 
-开发者：[topjohnwu](https://github.com/topjohnwu)、[HuskyDG](https://github.com/HuskyDG)、[vvb2060](https://github.com/vvb2060)、[datnerdguy](https://github.com/datnerdguy)
+开发者：[topjohnwu](https://github.com/topjohnwu)、[HuskyDG](https://github.com/HuskyDG)、[vvb2060](https://github.com/vvb2060)、[datnerdguy](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)
 
 ## 其他
 
