@@ -65,7 +65,7 @@
 
 | cygisk 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| cygisk | json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/cygisk.apk) |
+| cygisk | [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/cygisk.apk) |
 
 ## 鸣谢
 
