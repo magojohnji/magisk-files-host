@@ -24,12 +24,26 @@ The content of the file is updated synchronously every 8 hours
 | canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/canary.json> |
 | debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/debug.json> |
 
+|  Offical_zygisk64_32 version |                                  Links                                   |
+| :----: | :---------------------------------------------------------------------: |
+| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/stable.json> |
+|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/beta.json>  |
+| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/canary.json> |
+| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/debug.json> |
+
 |  Delta version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
 | stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/stable.json> |
 |  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/beta.json>  |
 | canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/canary.json> |
 | debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/debug.json> |
+
+|  Delta_32-bit version |                                  Links                                   |
+| :----: | :---------------------------------------------------------------------: |
+| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/stable.json> |
+|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/beta.json>  |
+| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/canary.json> |
+| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/debug.json> |
 
 |  alpha version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
@@ -49,6 +63,9 @@ The content of the file is updated synchronously every 8 hours
 | cygisk version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
 | cygisk | Waiting |
+
+## Software apks
+
 
 ## Acknowledgments
 
