@@ -34,7 +34,7 @@ The content of the file is updated synchronously every 8 hours
 | :----: | :---------------------------------------------------------------------: |
 | alpha | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/alpha.json> |
 
-|  monet |                                  Links                                   |
+|  monet version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
 | stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/stable.json> |
 |  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/beta.json>  |
