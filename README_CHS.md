@@ -45,6 +45,10 @@
 | :----: | :---------------------------------------------------------------------: |
 | lite | Waiting |
 
+| cygisk版本 |                                  链接                                   |
+| :----: | :---------------------------------------------------------------------: |
+| cygisk | Waiting |
+
 ## 鸣谢
 
 开发者：[topjohnwu](https://github.com/topjohnwu)、[HuskyDG](https://github.com/HuskyDG)、[vvb2060](https://github.com/vvb2060)、[datnerdguy](https://github.com/datnerdguy)
