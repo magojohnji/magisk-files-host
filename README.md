@@ -8,7 +8,6 @@ Custom Magisk update channel
 [Delta](https://github.com/HuskyDG/magisk-files)
 [Alpha](https://github.com/vvb2060/magisk_files)
 [Monet](https://github.com/datnerdguy/magisk-monet-files)
-[Lite]Waiting
 
 The link is redirected to the accelerated mirror website fastgit.org, and synchronized to Gitee and Gitlab.
 
