@@ -54,10 +54,10 @@ jobs:
           wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/beta.json -O ./offical_zygote64_32/beta.json
           wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/canary.json -O ./offical_zygote64_32/canary.json
           wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/debug.json -O ./offical_zygote64_32/debug.json
-          offical_stable=$(cat ./offical_zygote64_32/stable.json | jq -r '.magisk.link')
-          offical_beta=$(cat ./offical_zygote64_32/beta.json | jq -r '.magisk.link')
-          offical_canary=$(cat ./offical_zygote64_32/canary.json | jq -r '.magisk.link')
-          offical_debug=$(cat ./offical_zygote64_32/debug.json | jq -r '.magisk.link')
+          offical_zygote64_32_stable=$(cat ./offical_zygote64_32/stable.json | jq -r '.magisk.link')
+          offical_zygote64_32_beta=$(cat ./offical_zygote64_32/beta.json | jq -r '.magisk.link')
+          offical_zygote64_32_canary=$(cat ./offical_zygote64_32/canary.json | jq -r '.magisk.link')
+          offical_zygote64_32_debug=$(cat ./offical_zygote64_32/debug.json | jq -r '.magisk.link')
           wget $offical_zygote64_32_stable -O ./offical_zygote64_32/apk/stable.apk
           wget $offical_zygote64_32_beta -O ./offical_zygote64_32/apk/beta.apk
           wget $offical_zygote64_32_canary -O ./offical_zygote64_32/apk/canary.apk
