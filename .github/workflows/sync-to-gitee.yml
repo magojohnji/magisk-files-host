@@ -15,7 +15,7 @@ jobs:
           persist-credentials: false
 
       - name: sync github -> gitee
-        uses: Yikun/hub-mirror-action@master
+        uses: Yikun/hub-mirror-action@v1.2
         with:
           # 必选，需要同步的 Github 用户（源）
           src: 'github/${{ github.repository_owner }}'
