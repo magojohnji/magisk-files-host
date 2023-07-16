@@ -2,8 +2,8 @@ if [ ! -d "./offical/" ];then
  mkdir offical
 fi
 
-if [ ! -d "./offical_Zygote64_32/" ];then
- mkdir offical_Zygote64_32
+if [ ! -d "./offical_zygote64_32/" ];then
+ mkdir offical_zygote64_32
 fi
 
 if [ ! -d "./delta/" ];then
