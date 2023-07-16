@@ -1,5 +1,7 @@
 # Magisk_Files_Host
 
+[English](https://github.com/magojohnji/magisk-file-host/blob/master/README.md)
+
 代理 Magisk 更新通道
 
 [Offical](https://github.com/topjohnwu/magisk-files)
