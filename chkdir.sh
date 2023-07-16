@@ -3,21 +3,21 @@ if [ ! -d "./offical/" ];then
 fi
 
 if [ ! -d "./delta/" ];then
- mkdir offical
+ mkdir delta
 fi
 
 if [ ! -d "./alpha/" ];then
- mkdir offical
+ mkdir alpha
 fi
 
 if [ ! -d "./lite/" ];then
- mkdir offical
+ mkdir lite
 fi
 
 if [ ! -d "./monet/" ];then
- mkdir offical
+ mkdir monet
 fi
 
 if [ ! -d "./cygisk/" ];then
- mkdir offical
+ mkdir cygisk
 fi
