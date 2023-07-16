@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  Works:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -71,7 +71,7 @@ jobs:
               git add .
               git commit -m "$(date "+%Y-%m-%d %H:%M:%S") UTC" -a
               if [ $? -eq 0 ]; then
-                  date >>RunDate.txt
+                  date >> RunDate.txt
                   git commit -m "$(date "+%Y-%m-%d %H:%M:%S" UTC)" -a
                   git push
               else
