@@ -65,7 +65,7 @@ The content of the file is updated synchronously every 2 hours
 
 | cygisk version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
-| cygisk | json file (not offical)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/cygisk.apk) |
+| cygisk | [json file (not offical)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/cygisk.apk) |
 
 ## Acknowledgments
 
