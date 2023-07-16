@@ -16,7 +16,6 @@ jobs:
 
       - name: sync github -> gitee
         uses: Yikun/hub-mirror-action@master
-        if: env.dst_key && env.dst_token
         with:
           # 必选，需要同步的 Github 用户（源）
           src: 'github/${{ github.repository_owner }}'
