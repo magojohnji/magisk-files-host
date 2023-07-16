@@ -41,10 +41,10 @@ jobs:
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/beta.json -O ./offical/beta.json
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/canary.json -O ./offical/canary.json
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/debug.json -O ./offical/debug.json
-          offical_stable=$(cat ./offical/stable.json | jq '.magisk.link')
-          offical_beta=$(cat ./offical/beta.json | jq '.magisk.link')
-          offical_canary=$(cat ./offical/canary.json | jq '.magisk.link')
-          offical_debug=$(cat ./offical/debug.json | jq '.magisk.link')
+          offical_stable=$(cat ./offical/stable.json | jq -r '.magisk.link')
+          offical_beta=$(cat ./offical/beta.json | jq -r '.magisk.link')
+          offical_canary=$(cat ./offical/canary.json | jq -r '.magisk.link')
+          offical_debug=$(cat ./offical/debug.json | jq -r '.magisk.link')
           wget $offical_stable -O ./offical/apk/stable.apk
           wget $offical_beta -O ./offical/apk/beta.apk
           wget $offical_canary -O ./offical/apk/canary.apk
