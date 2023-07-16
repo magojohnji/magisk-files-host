@@ -86,7 +86,7 @@ jobs:
               git commit -m "$(date "+%Y-%m-%d %H:%M:%S") UTC" -a
               if [ $? -eq 0 ]; then
                   date >> RunDate.txt
-                  git commit -m "$(date "+%Y-%m-%d %H:%M:%S" UTC)" -a
+                  git commit -m "$(date "+%Y-%m-%d %H:%M:%S")" -a
                   git push
               else
                   echo No Update
