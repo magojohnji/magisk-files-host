@@ -1,11 +1,11 @@
-name: Sync to gitee
+name: Sync to Gitee
 on:
   push:
     branches:
       - master
       
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 1/2 * * *'
 
 jobs:
   repo-sync:
