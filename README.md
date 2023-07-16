@@ -44,6 +44,10 @@ The content of the file is updated synchronously every 8 hours
 | :----: | :---------------------------------------------------------------------: |
 | lite | Waiting |
 
+| cygisk version |                                  Links                                   |
+| :----: | :---------------------------------------------------------------------: |
+| cygisk | Waiting |
+
 ## Acknowledgments
 
 Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.com/HuskyDG), [vvb2060](https://github.com/vvb2060), [datnerdguy ](https://github.com/datnerdguy)
