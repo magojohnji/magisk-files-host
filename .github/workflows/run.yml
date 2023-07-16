@@ -1,4 +1,4 @@
-name: Auto Magisk Files Provider
+name: Auto Magisk Files Host Updater
 on:
   release:
     types: [published]
@@ -30,6 +30,7 @@ jobs:
           mkdir alpha
           mkdir lite
           mkdir monet
+          mkdir cygisk
           echo 'Offical Start'
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/stable.json -O ./offical/stable.json
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/beta.json -O ./offical/beta.json
