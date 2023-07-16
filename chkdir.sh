@@ -1,23 +1,23 @@
-if [ ! -d "./offical" ];then
+if [ ! -d "./offical/" ];then
  mkdir offical
 fi
 
-if [ ! -d "./delta" ];then
+if [ ! -d "./delta/" ];then
  mkdir offical
 fi
 
-if [ ! -d "./alpha" ];then
+if [ ! -d "./alpha/" ];then
  mkdir offical
 fi
 
-if [ ! -d "./lite" ];then
+if [ ! -d "./lite/" ];then
  mkdir offical
 fi
 
-if [ ! -d "./monet" ];then
+if [ ! -d "./monet/" ];then
  mkdir offical
 fi
 
-if [ ! -d "./cygisk" ];then
+if [ ! -d "./cygisk/" ];then
  mkdir offical
 fi
