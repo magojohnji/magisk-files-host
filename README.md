@@ -52,7 +52,7 @@ The content of the file is updated synchronously every 8 hours
 
 ## Acknowledgments
 
-Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.com/HuskyDG), [vvb2060](https://github.com/vvb2060), [datnerdguy ](https://github.com/datnerdguy)
+Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.com/HuskyDG), [vvb2060](https://github.com/vvb2060), [datnerdguy ](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)
 
 ## other
 
