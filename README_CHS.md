@@ -4,6 +4,8 @@
 
 代理 Magisk 更新通道
 
+- ⚠ *警告!* **如果你不信任，请不要使用他们。** 
+
 [Offical](https://github.com/topjohnwu/magisk-files)
 [Delta](https://github.com/HuskyDG/magisk-files)
 [Alpha](https://github.com/vvb2060/magisk_files)
