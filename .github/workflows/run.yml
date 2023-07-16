@@ -56,6 +56,14 @@ jobs:
           wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/beta.json -O ./offical_zygote64_32/beta.json
           wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/canary.json -O ./offical_zygote64_32/canary.json
           wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/debug.json -O ./offical_zygote64_32/debug.json
+          offical_stable=$(cat ./offical_zygote64_32/stable.json | jq -r '.magisk.link')
+          offical_beta=$(cat ./offical_zygote64_32/beta.json | jq -r '.magisk.link')
+          offical_canary=$(cat ./offical_zygote64_32/canary.json | jq -r '.magisk.link')
+          offical_debug=$(cat ./offical_zygote64_32/debug.json | jq -r '.magisk.link')
+          wget $offical_zygote64_32_stable -O ./offical_zygote64_32/apk/stable.apk
+          wget $offical_zygote64_32_beta -O ./offical_zygote64_32/apk/beta.apk
+          wget $offical_zygote64_32_canary -O ./offical_zygote64_32/apk/canary.apk
+          wget $offical_zygote64_32_debug -O ./offical_zygote64_32/apk/debug.apk
           echo 'Offical Zygote64_32 End'
           
           echo 'Delta Start'
@@ -63,10 +71,25 @@ jobs:
           wget https://raw.githubusercontent.com/HuskyDG/magisk-files/main/beta.json -O ./delta/beta.json
           wget https://raw.githubusercontent.com/HuskyDG/magisk-files/main/canary.json -O ./delta/canary.json
           wget https://raw.githubusercontent.com/HuskyDG/magisk-files/main/debug.json -O ./delta/debug.json
+          delta_stable=$(cat ./delta/stable.json | jq -r '.magisk.link')
+          delta_beta=$(cat ./delta/beta.json | jq -r '.magisk.link')
+          delta_canary=$(cat ./delta/canary.json | jq -r '.magisk.link')
+          delta_debug=$(cat ./delta/debug.json | jq -r '.magisk.link')
+          wget $delta_stable -O ./delta/apk/stable.apk
+          wget $delta_beta -O ./delta/apk/beta.apk
+          wget $delta_canary -O ./delta/apk/canary.apk
+          wget $delta_debug -O ./delta/apk/debug.apk
           echo 'Delta End'
+          
+          echo 'Delta_32-bit Strat'
+          wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-release.apk
+          wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-debug.apk
+          echo 'Delta_32-bit End'
           
           echo 'Alpha Start'
           wget https://raw.githubusercontent.com/vvb2060/magisk_files/alpha/alpha.json -O ./alpha/alpha.json
+          alpha=$(cat ./alpha/alpha.json | jq -r '.magisk.link')
+          wget $alpha -O ./alpha/apk/alpha.apk
           echo 'Alpha End'
           
           echo 'Monet Start'
@@ -74,6 +97,14 @@ jobs:
           wget https://raw.githubusercontent.com/datnerdguy/magisk-monet-files/master/beta.json -O ./monet/beta.json
           wget https://raw.githubusercontent.com/datnerdguy/magisk-monet-files/master/canary.json -O ./monet/canary.json
           wget https://raw.githubusercontent.com/datnerdguy/magisk-monet-files/master/debug.json -O ./monet/debug.json
+          monet_stable=$(cat ./monet/stable.json | jq -r '.magisk.link')
+          monet_beta=$(cat ./monet/beta.json | jq -r '.magisk.link')
+          monet_canary=$(cat ./monet/canary.json | jq -r '.magisk.link')
+          monet_debug=$(cat ./monet/debug.json | jq -r '.magisk.link')
+          wget $monet_stable -O ./monet/apk/stable.apk
+          wget $monet_beta -O ./monet/apk/beta.apk
+          wget $monet_canary -O ./monet/apk/canary.apk
+          wget $monet_debug -O ./monet/apk/debug.apk
           echo 'Monet End'
           
           
