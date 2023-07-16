@@ -53,4 +53,4 @@
 
 ## LICENSE
 
-(LICENSE)[./LICENSE]
+[LICENSE](https://raw.githubusercontent.com/magojohnji/magisk-file-host/master/LICENSE)
