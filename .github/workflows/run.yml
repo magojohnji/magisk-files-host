@@ -25,12 +25,8 @@ jobs:
         #   fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Download Json
         run: |
-          mkdir offical
-          mkdir delta
-          mkdir alpha
-          mkdir lite
-          mkdir monet
-          mkdir cygisk
+          chmod +x chkdir.sh
+          ./chkdir.sh
           echo 'Offical Start'
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/stable.json -O ./offical/stable.json
           wget https://raw.githubusercontent.com/topjohnwu/magisk-files/master/beta.json -O ./offical/beta.json
