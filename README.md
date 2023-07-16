@@ -10,10 +10,13 @@ Custom Magisk update channel
 [Delta](https://github.com/HuskyDG/magisk-files)
 [Alpha](https://github.com/vvb2060/magisk_files)
 [Monet](https://github.com/datnerdguy/magisk-monet-files)
+[Offical_Zygisk64_32](https://github.com/Namelesswonder/magisk-files)
+[Delta_32-bit](https://github.com/Namelesswonder/magisk-files)
+[Cygisk](https://github.com/Cygisk/Cygisk-Files)
 
 The link is redirected to the accelerated mirror website fastgit.org, and synchronized to Gitee and Gitlab.
 
-The content of the file is updated synchronously every 8 hours
+The content of the file is updated synchronously every 2 hours
 
 ## Custom update channel
 
