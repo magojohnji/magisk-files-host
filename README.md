@@ -1,6 +1,6 @@
 # Magisk_Files_Host
 
-[简体中文](https://github.com/magojohnji/magisk-file-host/blob/master/README_CN.md))
+[简体中文](https://github.com/magojohnji/magisk-file-host/blob/master/README_CN.md)
 
 Custom Magisk update channel
 
