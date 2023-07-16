@@ -17,53 +17,52 @@
 
 ## 自定义更新通道
 
-|  Offical版本  |                                  链接                                   |
+|  Offical 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/stable.json> |
-|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/beta.json>  |
-| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/canary.json> |
-| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/debug.json> |
+| stable | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/stable.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/apk/stable.apk) |
+|  beta  |  [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/beta.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/apk/beta.apk) | |
+| canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/apk/canary.apk) | |
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/apk/debug.apk) | |
 
-|  Offical_zygisk64_32版本 |                                  链接                                   |
+|  Offical_zygisk64_32 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/stable.json> |
-|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/beta.json>  |
-| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/canary.json> |
-| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/debug.json> |
+| stable | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/stable.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/stable.apk) | |
+|  beta  |  [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/beta.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/beta.apk) | |
+| canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/canary.apk) | |
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/debug.apk) | |
 
-|  Delta版本  |                                  链接                                   |
+|  Delta 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/stable.json> |
-|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/beta.json>  |
-| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/canary.json> |
-| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/debug.json> |
+| stable | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/stable.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/stable.apk) | |
+|  beta  |  [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/beta.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/beta.apk) | |
+| canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/canary.apk) | |
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/debug.apk) | |
 
-|  Delta_32-bit版本 |                                  链接                                   |
+|  Delta_32-bit 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/stable.json> |
-|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/beta.json>  |
-| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/canary.json> |
-| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/debug.json> |
+| stable | [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/stable.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/apk/magisk-delta-32bit-release.apk) | |
+|  beta  |  [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/beta.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/apk/magisk-delta-32bit-release.apk) | |
+| canary | [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/apk/magisk-delta-32bit-release.apk) | |
+| debug | [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_32-bit/apk/magisk-delta-32bit-debug.apk) | |
 
-
-|  alpha版本  |                                  链接                                   |
+|  alpha 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| alpha | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/alpha.json> |
+| alpha | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/alpha/alpha.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/alpha/apk/alpha.apk) ||
 
-|  monet版本  |                                  链接                                   |
+|  monet 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/stable.json> |
-|  beta  |  <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/beta.json>  |
-| canary | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/canary.json> |
-| debug | <https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/debug.json> |
+| stable | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/stable.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/apk/stable.apk) | |
+|  beta  |  [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/beta.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/apk/beta.apk) | |
+| canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/canary.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/apk/canary.apk) ||
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/monet/apk/debug.apk) | |
 
-| lite版本  |                                  链接                                   |
+| lite 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| lite | Waiting |
+| lite | [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/lite/lite.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/lite/apk/lite.apk) |
 
-| cygisk版本 |                                  链接                                   |
+| cygisk 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| cygisk | Waiting |
+| cygisk | json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/cygisk.apk) |
 
 ## 鸣谢
 
