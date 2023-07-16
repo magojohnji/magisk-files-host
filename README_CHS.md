@@ -10,10 +10,13 @@
 [Delta](https://github.com/HuskyDG/magisk-files)
 [Alpha](https://github.com/vvb2060/magisk_files)
 [Monet](https://github.com/datnerdguy/magisk-monet-files)
+[Offical_Zygisk64_32](https://github.com/Namelesswonder/magisk-files)
+[Delta_32-bit](https://github.com/Namelesswonder/magisk-files)
+[Cygisk](https://github.com/Cygisk/Cygisk-Files)
 
 链接重新指向加速镜像网站fastgit.org，并同步到Gitee、Gitlab。
 
-文件内容每 8 小时同步更新一次
+文件内容每 2 小时同步更新一次
 
 ## 自定义更新通道
 
