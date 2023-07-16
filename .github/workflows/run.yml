@@ -80,8 +80,8 @@ jobs:
           echo 'Delta End'
           
           echo 'Delta_32-bit Strat'
-          wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-release.apk
-          wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-debug.apk
+          wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-release.apk -O ./delta_32-bit/apk/magisk-delta-32bit-release.apk
+          wget https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-debug.apk -O ./delta_32-bit/apk/magisk-delta-32bit-debug.apk
           echo 'Delta_32-bit End'
           
           echo 'Alpha Start'
