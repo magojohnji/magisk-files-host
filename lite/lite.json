@@ -1,1 +1,11 @@
-
+{
+  "magisk": {
+    "version": "ed37ddd5-lite",
+    "versionCode": "25205",
+    "link": "https://raw.githubusercontent.com/magojohnji/magisk-file-host/35e1deaa175f5d606be48ac616eeb6375898f5ea/lite/apk/Magisk_lite_25205.apk",
+    "note": ""
+  },
+  "stub": {
+    "versionCode": "36"
+  }
+}
