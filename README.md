@@ -74,8 +74,8 @@ The link is redirected to the accelerated mirror website fastgit.org and cdn.jsd
 
 | cygisk version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable/beta/canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
-| debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
+| stable/beta/canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/canary.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
+| debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/debug.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
 
 ## Acknowledgments
 
