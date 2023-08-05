@@ -68,3 +68,17 @@ fi
 if [ ! -d "./cygisk/apk/" ];then
  mkdir ./cygisk/apk
 fi
+
+
+if [ ! -d "./delta_lite/" ];then
+ mkdir .delta_lite
+fi
+
+if [ ! -d "./delta_lite/apk/" ];then
+ mkdir .delta_lite/apk
+fi
+
+
+if [ ! -d "./cygisk/apk/" ];then
+ mkdir ./cygisk/apk
+fi
