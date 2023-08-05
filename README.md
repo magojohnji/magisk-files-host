@@ -15,7 +15,7 @@ Official repositories:
 [Delta_32-bit](https://github.com/Namelesswonder/magisk-files)
 [Cygisk](https://github.com/Cygisk/Cygisk-Files)
 
-The link is redirected to the accelerated mirror website fastgit.org, and synchronized to Gitee. The content of the file is updated synchronously every 6 hours.
+The link is redirected to the accelerated mirror website fastgit.org and cdn.jsdelivr.net, and synchronized to Gitee. The content of the file is updated synchronously every 6 hours.
 
 ***The following links are separated into two parts:***
 
