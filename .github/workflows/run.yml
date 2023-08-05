@@ -104,7 +104,13 @@ jobs:
           wget $monet_canary -O ./monet/apk/canary.apk
           wget $monet_debug -O ./monet/apk/debug.apk
           echo 'Monet End'
-          
+
+          echo 'Cygisk Start'
+          wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/stable.json -O ./cygisk/stable.json
+          wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/beta.json -O ./cygisk/beta.json
+          wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/beta.json -O ./cygisk/canary.json
+          wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/canary.json -O ./cygisk/debug.json
+          echo 'Cygisk End'
           
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@master
