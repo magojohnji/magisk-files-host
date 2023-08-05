@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "2e44b93e-delta-lite",
+    "versionCode": "25210",
+    "link": "https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_lite/apk/canary.apk",
+    "note": ""
+  },
+  "stub": {
+    "versionCode": "35",
+    "link": "https://huskydg.github.io/magisk-files/stub-release.apk"
+  }
+}
