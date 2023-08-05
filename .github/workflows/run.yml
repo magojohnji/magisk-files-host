@@ -110,6 +110,8 @@ jobs:
           wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/beta.json -O ./cygisk/beta.json
           wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/beta.json -O ./cygisk/canary.json
           wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/configs/canary.json -O ./cygisk/debug.json
+          wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/channel/app-release.apk -O ./cygisk/apk/canary.apk
+          wget https://raw.githubusercontent.com/Cygisk/Cygisk-Files/master/channel/app-debug.apk -O ./cygisk/apk/debug.apk
           echo 'Cygisk End'
           
       - name: Find and Replace
