@@ -5,7 +5,7 @@
 Custom Magisk update channel, and keep important versions.
 
 - ⚠ *WARNING!* **Please DON'T use them if you don't trust them.** 
-
+Official repositories: 
 [Offical](https://github.com/topjohnwu/magisk-files)
 [Delta](https://github.com/HuskyDG/magisk-files)
 [Alpha](https://github.com/vvb2060/magisk_files)
