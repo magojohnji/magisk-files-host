@@ -31,12 +31,12 @@ The link is redirected to the accelerated mirror website fastgit.org and cdn.jsd
 | canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/canary.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/apk/canary.apk) | |
 | debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/debug.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical/apk/debug.apk) | |
 
-|  Offical_zygisk64_32 version |                                  Links                                   |
+|  Offical_zygote64_32 version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/stable.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/stable.apk) | |
-|  beta  |  [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/beta.json)， [apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/beta.apk) | |
-| canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/canary.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/canary.apk) | |
-| debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/debug.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygisk64_32/apk/debug.apk) | |
+| stable | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/stable.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/apk/stable.apk) | |
+|  beta  |  [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/beta.json)， [apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/apk/beta.apk) | |
+| canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/canary.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/apk/canary.apk) | |
+| debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/debug.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/offical_zygote64_32/apk/debug.apk) | |
 
 |  Delta version |                                  Links                                   |
 | :----: | :---------------------------------------------------------------------: |
