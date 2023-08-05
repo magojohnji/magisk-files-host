@@ -4,8 +4,9 @@
 
 代理 Magisk 更新通道
 
-- ⚠ *警告!* **如果你不信任，请不要使用他们。** 
+- ⚠ *警告!* **如果你不信任，请不要使用他们。**
 
+官方仓库：
 [Offical](https://github.com/topjohnwu/magisk-files)
 [Delta](https://github.com/HuskyDG/magisk-files)
 [Alpha](https://github.com/vvb2060/magisk_files)
@@ -14,9 +15,12 @@
 [Delta_32-bit](https://github.com/Namelesswonder/magisk-files)
 [Cygisk](https://github.com/Cygisk/Cygisk-Files)
 
-链接重新指向加速镜像网站fastgit.org，并同步到Gitee、Gitlab。
+链接重新指向加速镜像网站 fastgit.org、cdn.jsdelivr.net，并同步到Gitee、Gitlab。文件内容每 2 小时同步更新一次
 
-文件内容每 2 小时同步更新一次
+***以下的链接分为两部分：***
+
+- **json 文件链接到各自的官方存储库（“非官方”除外），但将“github.com”和“raw.githubusercontent.com”更改为“download.fastgit.org”和“raw.fastgit.org” 加快下载速度。**
+- **apk 文件链接到此存储库，使用“cdn.jsdelivr.net”加快下载速度。**
 
 ## 自定义更新通道
 
@@ -40,6 +44,11 @@
 |  beta  |  [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/beta.json)， [apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/beta.apk) | |
 | canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/canary.apk) | |
 | debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta/apk/debug.apk) | |
+
+|  Delta_lite 版本 |                                  链接                                   |
+| :----: | :---------------------------------------------------------------------: |
+| canary | json 文件 (官方，但仍在寻找)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_lite/apk/canary.apk) | |
+| debug | json file (官方，但仍在寻找)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/delta_lite/apk/debug.apk) | |
 
 |  Delta_32-bit 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
@@ -65,7 +74,8 @@
 
 | cygisk 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| cygisk | [json 文件 (非官方)](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/cygisk.apk) |
+| stable/beta/canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygsik.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
 
 ## 鸣谢
 
