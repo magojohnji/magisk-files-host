@@ -74,8 +74,8 @@
 
 | cygisk 版本 |                                  链接                                   |
 | :----: | :---------------------------------------------------------------------: |
-| stable/beta/canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygisk.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
-| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/cygisk.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
+| stable/beta/canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
 
 ## 鸣谢
 
