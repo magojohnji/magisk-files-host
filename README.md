@@ -88,6 +88,8 @@ The link is redirected to the accelerated mirror website fastgit.org and cdn.jsd
 
 Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.com/HuskyDG), [vvb2060](https://github.com/vvb2060), [datnerdguy ](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)，[5ec1cff](https://github.com/5ec1cff)
 
+Original repository: [Magisk_Files_Broker](https://github.com/RC1844/Magisk_Files_Broker)
+
 ## other
 
 If you need to replace the accelerated website, or add a new version, please submit New issues.
