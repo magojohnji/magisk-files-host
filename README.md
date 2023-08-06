@@ -17,7 +17,7 @@ Official repositories:
 
 The link is redirected to the accelerated mirror website fastgit.org and cdn.jsdelivr.net, and synchronized to Gitee. The content of the file is updated synchronously every 6 hours.
 
-*[Gitee](https://gitee.com/magojohnji/magisk-files-host)*
+*[Gitee](https://gitee.com/magojohnji/magisk-files-host), [GitHub](https://github.com/magojohnji/magisk-files-host)*
 
 ***The following links are separated into two parts:***
 
