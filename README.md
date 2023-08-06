@@ -90,7 +90,7 @@ Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.
 
 Original repository: [Magisk_Files_Broker](https://github.com/RC1844/Magisk_Files_Broker)
 
-## other
+## Other
 
 If you need to replace the accelerated website, or add a new version, please submit New issues.
 
