@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "c5154045",
+    "versionCode": "25203",
+    "link": "https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/apk/canary.apk",
+    "note": ""
+  },
+  "stub": {
+    "versionCode": "35",
+    "link": ""
+  }
+}
