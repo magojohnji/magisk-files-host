@@ -17,6 +17,8 @@ Official repositories:
 
 The link is redirected to the accelerated mirror website fastgit.org and cdn.jsdelivr.net, and synchronized to Gitee. The content of the file is updated synchronously every 6 hours.
 
+*[Gitee](https://gitee.com/magojohnji/magisk-files-host)*
+
 ***The following links are separated into two parts:***
 
 - **The json file is linked to their respective official repositories (except "not official"), but changed "github.com" and "raw.githubusercontent.com" into "download.fastgit.org" and "raw.fastgit.org" to speed up the download.**
@@ -77,9 +79,14 @@ The link is redirected to the accelerated mirror website fastgit.org and cdn.jsd
 | stable/beta/canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/canary.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
 | debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/debug.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
 
+| maru version |                                  Links                                   |
+| :----: | :---------------------------------------------------------------------: |
+| canary | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/canary.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/apk/canary.apk) |
+| debug | [json file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/debug.json)，[apk file](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/apk/debug.apk) |
+
 ## Acknowledgments
 
-Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.com/HuskyDG), [vvb2060](https://github.com/vvb2060), [datnerdguy ](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)
+Developers: [topjohnwu](https://github.com/topjohnwu), [HuskyDG](https://github.com/HuskyDG), [vvb2060](https://github.com/vvb2060), [datnerdguy ](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)，[5ec1cff](https://github.com/5ec1cff)
 
 ## other
 
