@@ -88,6 +88,8 @@
 
 开发者：[topjohnwu](https://github.com/topjohnwu)、[HuskyDG](https://github.com/HuskyDG)、[vvb2060](https://github.com/vvb2060)、[datnerdguy](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)，[5ec1cff](https://github.com/5ec1cff)
 
+原仓库: [Magisk_Files_Broker](https://github.com/RC1844/Magisk_Files_Broker)
+
 ## 其他
 
 如果需要更换加速网站，或添加新版本，请提交New issues。
