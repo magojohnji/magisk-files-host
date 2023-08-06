@@ -17,6 +17,8 @@
 
 链接重新指向加速镜像网站 fastgit.org、cdn.jsdelivr.net，并同步到Gitee、Gitlab。文件内容每 2 小时同步更新一次
 
+*[Gitee](https://gitee.com/magojohnji/magisk-files-host)*
+
 ***以下的链接分为两部分：***
 
 - **json 文件链接到各自的官方存储库（“非官方”除外），但将“github.com”和“raw.githubusercontent.com”更改为“download.fastgit.org”和“raw.fastgit.org” 加快下载速度。**
@@ -77,9 +79,14 @@
 | stable/beta/canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/canary.apk) |
 | debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/cygisk/apk/debug.apk) |
 
+| maru 版本 |                                  链接                                   |
+| :----: | :---------------------------------------------------------------------: |
+| canary | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/canary.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/apk/canary.apk) |
+| debug | [json 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/debug.json)，[apk 文件](https://cdn.jsdelivr.net/gh/magojohnji/magisk-file-host@master/maru/apk/debug.apk) |
+
 ## 鸣谢
 
-开发者：[topjohnwu](https://github.com/topjohnwu)、[HuskyDG](https://github.com/HuskyDG)、[vvb2060](https://github.com/vvb2060)、[datnerdguy](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)
+开发者：[topjohnwu](https://github.com/topjohnwu)、[HuskyDG](https://github.com/HuskyDG)、[vvb2060](https://github.com/vvb2060)、[datnerdguy](https://github.com/datnerdguy)，[Cygisk](https://github.com/Cygisk)，[Namelesswonder](https://github.com/Namelesswonder)，[5ec1cff](https://github.com/5ec1cff)
 
 ## 其他
 
