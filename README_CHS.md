@@ -15,9 +15,9 @@
 [Delta_32-bit](https://github.com/Namelesswonder/magisk-files)
 [Cygisk](https://github.com/Cygisk/Cygisk-Files)
 
-链接重新指向加速镜像网站 fastgit.org、cdn.jsdelivr.net，并同步到Gitee、Gitlab。文件内容每 2 小时同步更新一次
+链接重新指向加速镜像网站 fastgit.org、cdn.jsdelivr.net，并同步到Gitee。文件内容每 6 小时同步更新一次
 
-*[Gitee](https://gitee.com/magojohnji/magisk-files-host)*
+*[Gitee](https://gitee.com/magojohnji/magisk-files-host), [GitHub](https://github.com/magojohnji/magisk-files-host)*
 
 ***以下的链接分为两部分：***
 
