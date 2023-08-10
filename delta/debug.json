@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "fdac22ba-delta",
-    "versionCode": "25210",
-    "link": "https://huskydg.github.io/magisk-files/app-debug.apk",
+    "version": "fdd6904b-delta",
+    "versionCode": "26105",
+    "link": "https://raw.githubusercontent.com/magojohnji/magisk-files-host/master/delta/apk/fdd6904b-delta(26105)(D).apk",
     "note": "https://huskydg.github.io/magisk-files/note.md"
   },
   "stub": {
-    "versionCode": "35",
+    "versionCode": "36",
     "link": "https://huskydg.github.io/magisk-files/stub-debug.apk"
   }
 }
